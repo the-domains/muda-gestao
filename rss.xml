@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MuDa!]]></title>
+        <description><![CDATA[MuDa!]]></description>
+        <link>https://thegrid.ai/muda-gestao/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 14:00:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/muda-gestao/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mark Zuckerberg: How to Build the Future]]></title>
+            <description><![CDATA[<article><h1>Mark Zuckerberg: How to Build the Future</h1><p>Access podcast and transcript versions of this interview here: http://themacro.com/articles/2016/08/mark-zuckerberg-future-interview/</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a1174fb26ffff95973d4b0144067a217/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLb4IcGF5iTQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Lb4IcGF5iTQ</link>
+            <guid isPermaLink="false">f5e512da-1743-4a30-9cb5-4663fe616b1a</guid>
+            <pubDate>Mon, 22 Aug 2016 14:00:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
